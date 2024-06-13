@@ -11,4 +11,5 @@ This is a alexa skill i coded to ask alexa when my next bus will arrive. You nee
 1. Go into the lamda > class planintentHandler and add your bus times to the bus_times list.
 2. adjust the timezone by changeing the timedelta (timedelta is just a workaround lol). currently its the UTC + 2 Hours = German Timezone
 3. Add your own uri in skill.json
+4. Change Language if not German
 
