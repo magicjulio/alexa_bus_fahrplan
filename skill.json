@@ -1,0 +1,41 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": ""
+        },
+        "interfaces": [],
+        "locales": {},
+        "regions": {
+          "NA": {
+            "endpoint": {
+              "uri": ""
+            }
+          },
+          "EU": {
+            "endpoint": {
+              "uri": ""
+            }
+          },
+          "FE": {
+            "endpoint": {
+              "uri": ""
+            }
+          }
+        }
+      }
+    },
+    "manifestVersion": "1.0",
+    "publishingInformation": {
+      "distributionCountries": [],
+      "isAvailableWorldwide": true,
+      "locales": {
+        "de-DE": {
+          "name": "Bus"
+        }
+      },
+      "testingInstructions": "Sample Testing Instructions."
+    }
+  }
+}

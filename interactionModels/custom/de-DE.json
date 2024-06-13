@@ -1,0 +1,50 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "HelloWorldIntent",
+          "samples": [
+            "hallo",
+            "wie geht\u0027s dir",
+            "sag hallo welt",
+            "sag hallo"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "planintent",
+          "samples": [
+            "nächster Bus",
+            "um wie viel uhr kommt der Bus",
+            "wann kommt der nächste Bus",
+            "wann kommt der bus"
+          ]
+        }
+      ],
+      "types": [],
+      "invocationName": "friedhof fahrplan"
+    }
+  }
+}
